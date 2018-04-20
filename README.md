@@ -1,7 +1,7 @@
 Unsupervised Language Learning Assignment 1
 
 Richard Olij (10833730)
-Melissa Tjhia (10761071)
+Melissa Tjhia (10761071)     
 ###########################################
 
 The folders with the datasets should be on the same level as the code.
